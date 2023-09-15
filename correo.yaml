@@ -1,0 +1,5 @@
+# Configuración de correo electrónico
+host: smtp.example.com
+puerto: 587
+usuario: correo@example.com
+contrasena: tucontrasena

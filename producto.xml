@@ -1,0 +1,7 @@
+<!-- Ejemplo de esquema XML para productos -->
+<producto>
+    <id>1</id>
+    <nombre>Producto 1</nombre>
+    <descripcion>Descripción del Producto 1</descripcion>
+    <precio>19.99</precio>
+</producto>

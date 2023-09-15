@@ -1,0 +1,17 @@
+// Datos de usuarios registrados en formato JSON
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Usuario1",
+            "correo": "usuario1@example.com",
+            "contrasena": "contrasena1"
+        },
+        {
+            "id": 2,
+            "nombre": "Usuario2",
+            "correo": "usuario2@example.com",
+            "contrasena": "contrasena2"
+        }
+    ]
+}
